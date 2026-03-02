@@ -1,4 +1,4 @@
-# Solid Queue Heroku Autoscaler
+# Solid Queue Autoscaler
 
 [![CI](https://github.com/reillyse/solid_queue_autoscaler/actions/workflows/ci.yml/badge.svg)](https://github.com/reillyse/solid_queue_autoscaler/actions/workflows/ci.yml)
 [![Gem Version](https://badge.fury.io/rb/solid_queue_autoscaler.svg)](https://badge.fury.io/rb/solid_queue_autoscaler)
